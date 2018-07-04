@@ -1,7 +1,6 @@
 # MISTIC-Master-Thesis
-======================
 
-The repository contains a set of source code anexes developed during the Master's Thesis aviable in the following repository.
+The repository contains a set of source code anexes developed during the Master's Thesis available in the following repository.
 
 http://openaccess.uoc.edu/webapps/o2/handle/10609/81286
 
